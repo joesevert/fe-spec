@@ -1,7 +1,5 @@
 # fe-spec
 
-印客学院 前端编码规范工程化
-
 ## ⛰ 能力支持
 
 ### 1. 完善的规范生态
@@ -23,8 +21,6 @@
 那么，如何制定前端团队的代码规范，如何在团队内进行最小成本的推广，就是一个合格的前端架构师面临的一大难题。很多团队的基础建设都只是简单地知晓其中一部分规范工具的使用，但却没有一套完整的工程化产出来助力研发同学实现规范落地。因此，如果我们能够产出一套完整化的前端编码规范工具，都会对不仅能够解决存量项目的编码异味，还能够保证后续所有项目的编码质量。
 
 ## 💡 为什要学习前端工程化
-
-通过本套课程，您可以学会：
 
 1. 学习如何通过 `monorepo` 和 `pnpm` 的多包管理方式开发一套多 `npm` 包的管理方式，以及如何将发包流程植入 `CI` 实现自动化发布，以及 `CHANGLOG`的自动化更新部署；
 2. 学习现有前端前沿的研发流程下，我们可以通过哪些工具提升项目的编码规范，并提供配套工具的最佳实践，包括但不限于 `eslint`、`stylelint`、`commitlint`、`markdownlint`、`husky`等，以及如何将单元测试植入配套工具的具体实现；
@@ -75,8 +71,7 @@ pnpm husky install
 
 ## ✉️ 联系
 
-- **印客学院官网**: [http://encodestudio.cn](http://encodestudio.cn)
-- **前端编码规范工程化** [https://encode-studio-fe.github.io/fe-spec/](https://encode-studio-fe.github.io/fe-spec/)
-- **GitHub**: [https://github.com/encode-studio-fe/fe-spec](https://github.com/encode-studio-fe/fe-spec)
+- **前端编码规范工程化** [https://encode-studio-fe.github.io/fe-spec/](https://joesevert.github.io/fe-spec/)
+- **GitHub**: [https://github.com/encode-studio-fe/fe-spec](https://github.com/joesevert/fe-spec)
 
 </br>
