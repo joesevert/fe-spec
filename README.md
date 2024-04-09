@@ -71,7 +71,7 @@ pnpm husky install
 
 ## ✉️ 联系
 
-- **前端编码规范工程化** [https://encode-studio-fe.github.io/fe-spec/](https://joesevert.github.io/fe-spec/)
-- **GitHub**: [https://github.com/encode-studio-fe/fe-spec](https://github.com/joesevert/fe-spec)
+- **前端编码规范工程化** [https://joesevert.github.io/fe-spec/](https://joesevert.github.io/fe-spec/)
+- **GitHub**: [https://github.com/joesevert/fe-spec](https://github.com/joesevert/fe-spec)
 
 </br>
